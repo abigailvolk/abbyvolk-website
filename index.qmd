@@ -1,0 +1,29 @@
+---
+title: "Welcome to Abby Volk's Website"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Hi, my name is Abby. I am a scientist and recent graduate of The Ohio State University
+currently interning with the National Park Service.
+
+I am developing this website as a way to practice simple website
+deployment and track my progress over time. I am working on projects and
+gaining skills related to any of my scientific interests:
+
+-   Biology and Environmental Science
+
+    -   Metagenomics and viromics
+
+    -   Bioinformatics
+
+    -   Water and hydrology
+
+    -   Climate science
+
+    -   Geospatial analysis
+
+-   Statistics and data analysis
+
+-   Programming and development

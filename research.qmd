@@ -1,0 +1,18 @@
+---
+title: "My Research"
+subtitle: "These are my ongoing and past research projects"
+author: "Abigail R. Volk"
+toc-location: body
+---
+
+# Post-Graduate Internship
+
+Physical sciences, hydrology, climate science, field work
+
+# Master of Science
+
+Microbiology, metagenomics and microbiome sciences, environmental science
+
+# Undergraduate
+
+Cell Biology

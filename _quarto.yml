@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Abby Volk"
+  navbar:
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: research.qmd
+        text: My Research
+  favicon: tree
+
+format:
+  html:
+    theme: Sandstone
+    css: styles.css
+    toc: true
+
+
+
+
+
